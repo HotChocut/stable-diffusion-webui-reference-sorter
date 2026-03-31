@@ -1,9 +1,10 @@
 # Reference Sorter
 
-A fork of [stable-diffusion-webui-artists-to-study](https://github.com/camenduru/stable-diffusion-webui-artists-to-study) where I basically took the extension and turned it into a way to sort references by dropping files into the extension's `references` folder.
+A [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) extension made to sort reference images based on [stable-diffusion-webui-artists-to-study](https://github.com/camenduru/stable-diffusion-webui-artists-to-study).
 
 ## Features added so far:
-- Auto updating reference folders and sub-folders
+- Auto dynamic reference folders and sub-folders
+- Added .avif support
 
 ## How to Install extension
 ### Method 1:

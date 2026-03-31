@@ -2,14 +2,10 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-# Artists To Study
+# Reference Sorter
 
-![artists-to-study](https://user-images.githubusercontent.com/54370274/197829512-e7d30d44-2697-4ecd-b9a7-3665217918c7.jpg)
-
-https://artiststostudy.pages.dev addapted to an extension for [web ui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
+A fork of [stable-diffusion-webui-artists-to-study](https://github.com/camenduru/stable-diffusion-webui-artists-to-study) with extra features.
 
 To install it, clone the repo into the `extensions` directory and restart the web ui:
 
-`git clone https://github.com/camenduru/stable-diffusion-webui-artists-to-study`
-
-You can add the artist name to the clipboard by clicking on it. (thanks for the idea @gmaciocci)
+`git clone https://github.com/HotChocut/stable-diffusion-webui-reference-sorter`

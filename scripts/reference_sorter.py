@@ -29,7 +29,7 @@ def on_ui_tabs():
         categories = sorted([d for d in os.listdir(root_path) if os.path.isdir(os.path.join(root_path, d))])
         
         if not categories:
-            gr.Markdown("The `references` folder is empty. Drop some folders in there already.")
+            gr.Markdown("The `references` folder is empty.")
         else:
             for category in categories:
                 with gr.Tab(category):

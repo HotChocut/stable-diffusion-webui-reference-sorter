@@ -1,6 +1,6 @@
 # Reference Sorter
 
-A fork of [stable-diffusion-webui-artists-to-study](https://github.com/camenduru/stable-diffusion-webui-artists-to-study) with extra features.
+A fork of [stable-diffusion-webui-artists-to-study](https://github.com/camenduru/stable-diffusion-webui-artists-to-study) where I basically took the extension and turned it into a way to sort references by dropin files into the extension's `references` folder.
 
 ## Features added so far:
 - Auto updating reference folders and sub-folders

@@ -3,7 +3,7 @@
 A [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) extension made to sort reference images based on [stable-diffusion-webui-artists-to-study](https://github.com/camenduru/stable-diffusion-webui-artists-to-study).
 
 ## Features added so far:
-- Auto dynamic reference folders and sub-folders
+- Dynamic reference folders and sub-folders
 - Added .avif support
 
 ## How to Install extension

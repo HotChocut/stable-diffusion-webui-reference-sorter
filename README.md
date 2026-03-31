@@ -4,7 +4,7 @@ A [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-web
 
 ## Features added so far:
 - Dynamic reference folders and sub-folders
-- Added .avif support
+- Added `.avif` support
 
 ## How to Install extension
 ### Method 1:
